@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+    <link rel="icon" type="image/xicon" href="frankos.jpg">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <style>
+    
+    body{
+    background-color: lightblue;
+    }
+     
+</style>
+    <img src="frankos.jpg" alt="my cv" width="150"px>
+       </style>
+    <style>
+        table{
+            width: 80%;
+            border-collapse:collapse;
+        }
+    </style>
+    <style>
+        h1{
+            text-align: center;
+        }
+    </style>
+    <style>
+        h1{
+            color: red;
+        }
+    </style>
+    <style>
+        p{
+            color: blue; font-size: 23px;
+        }
+    </style>
+    <style>
+        ul{
+            color: blue;
+        }
+    </style>
+ <h1>Bio data</h1>
+ <p>  KALIIRI FRANK <br>
+      07763455666 <br>
+    P.O.Box 4549 Kampala <br>
+     09/02/2003 <br>
+     Ugandan <br>
+     </p>
+
+<h1>Profession</h1>
+<ul>
+<li>Web developer </li>
+<li>Cyber security consultant</li>
+<li>A hucker</li>
+</ul>
+<h1>Eucation background</h1>
+<table border="4" >
+<tr>
+    <th>Year</th>
+    <th>institution</th>
+    <th>Qualification</th>
+</tr>
+<tr>
+    <td>2023-2025</td>
+    <td>Holy trinity sss nkozi</td>
+     <td>UACE</td>
+</tr>
+  <tr>
+     <td>2018-2022</td>
+      <td>Holy trinity sss nkozi</td>
+       <td>UCE</td>
+</tr>
+<tr>
+    <td>-2010-2017</td>
+    <td>St andrew junior school nkozi kawongo</td>
+    <td>PLE</td>
+</tr>
+</table>
+<h1>Working experience</h1>
+<table border="4">
+<tr>
+    <th>Campany</th>
+     <th>position</th>
+      <th>Duration</th>
+</tr>
+<tr>
+     <td>Holy trinity sss nkozi</td>
+    <td>Head prefect</td>
+     <td>2024</td>
+</tr>
+<tr>
+     <td>Holy trinity sss nkozi</td>
+     <td>Sanitary prefect</td>
+     <td>2022-2023</td>
+</tr>
+<tr>
+<td>St andrew junior school nkozi kawongo</td>
+<td>Time keeper</td>
+<td>2015-2017</td>
+</tr>
+</table>
+<h1>Skills</h1>
+<ul>
+    <li>Team work</li>
+    <li>Problem solver</li>
+    <li>Team work</li>
+</ul>
+<h1>Referee</h1>
+ <p>Nampijja emma <br>
+Head teacher holy hrinity ss nkozi <br> 
+ 0755345557 <br>
+nampijjaemma12@mail.com </p>
+<h1>Declation</h1>
+ <p>I kaliiri frank declare that the above info is true</p>
+
+</body>
+</html>
